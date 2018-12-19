@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/gong/Project/C++/剑指Offer/重建二叉树/build",
+  "command": "/usr/bin/g++-5    -g   -std=c++11 -o CMakeFiles/BinaryTree.dir/binary_tree.cpp.o -c /home/gong/Project/C++/剑指Offer/重建二叉树/binary_tree.cpp",
+  "file": "/home/gong/Project/C++/剑指Offer/重建二叉树/binary_tree.cpp"
+}
+]

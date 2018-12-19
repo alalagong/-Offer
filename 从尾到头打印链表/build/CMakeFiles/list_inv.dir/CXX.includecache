@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gong/Project/C++/剑指Offer/从尾到头打印链表/list_inv.cpp
+iostream
+-
+vector
+-
+stack
+-
+algorithm
+-
+
