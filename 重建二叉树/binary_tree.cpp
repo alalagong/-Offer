@@ -1,6 +1,6 @@
+#include <exception>
 #include <iostream>
 #include <vector>
-#include <exception>
 
 //定义二叉树结构
 struct TreeNode
@@ -44,7 +44,8 @@ class Solution
 
         if (length_left > 0)
         {
-            std::vector<int> pre_left(pre_iteration + 1, pre_iteration + 1 + length_left);
+            std::vector<int> pre_left(pre_iteration + 1,
+                                      pre_iteration + 1 + length_left);
             std::vector<int> vin_left(vin.cbegin(), vin_iteration);
             root->left = reConstructBinaryTree(pre_left, vin_left);
         }
@@ -61,12 +62,11 @@ class Solution
 
 int main()
 {
-
     int pre_v[8] = {1, 2, 4, 7, 3, 5, 6, 8};
     int vin_v[8] = {4, 7, 2, 1, 5, 3, 8, 6};
     std::vector<int> pre(pre_v, pre_v + 8), vin(vin_v, vin_v + 8);
 
-    TreeNode  *result;
+    TreeNode *result;
 
     Solution s;
     result = s.reConstructBinaryTree(pre, vin);
