@@ -1,1 +1,0 @@
-/usr/bin/g++-5  -g  -rdynamic CMakeFiles/close_offer_2.dir/own_method.cpp.o  -o close_offer_2 

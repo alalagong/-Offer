@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/gong/Project/C++/剑指Offer/从尾到头打印链表/build",
-  "command": "/usr/bin/g++-5    -g   -std=c++11 -o CMakeFiles/list_inv.dir/list_inv.cpp.o -c /home/gong/Project/C++/剑指Offer/从尾到头打印链表/list_inv.cpp",
-  "file": "/home/gong/Project/C++/剑指Offer/从尾到头打印链表/list_inv.cpp"
-}
-]

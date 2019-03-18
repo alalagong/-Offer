@@ -1,5 +1,0 @@
-/home/gong/Project/C++/剑指Offer/1/build/CMakeFiles/package.dir
-/home/gong/Project/C++/剑指Offer/1/build/CMakeFiles/close_offer_1.dir
-/home/gong/Project/C++/剑指Offer/1/build/CMakeFiles/edit_cache.dir
-/home/gong/Project/C++/剑指Offer/1/build/CMakeFiles/package_source.dir
-/home/gong/Project/C++/剑指Offer/1/build/CMakeFiles/rebuild_cache.dir

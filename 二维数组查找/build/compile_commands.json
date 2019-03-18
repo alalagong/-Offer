@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/gong/Project/C++/剑指Offer/1/build",
-  "command": "/usr/bin/g++-5     -g   -o CMakeFiles/close_offer_1.dir/own_method.cpp.o -c /home/gong/Project/C++/剑指Offer/1/own_method.cpp",
-  "file": "/home/gong/Project/C++/剑指Offer/1/own_method.cpp"
-}
-]

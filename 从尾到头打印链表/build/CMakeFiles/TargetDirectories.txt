@@ -1,5 +1,0 @@
-/home/gong/Project/C++/剑指Offer/从尾到头打印链表/build/CMakeFiles/rebuild_cache.dir
-/home/gong/Project/C++/剑指Offer/从尾到头打印链表/build/CMakeFiles/list_inv.dir
-/home/gong/Project/C++/剑指Offer/从尾到头打印链表/build/CMakeFiles/package_source.dir
-/home/gong/Project/C++/剑指Offer/从尾到头打印链表/build/CMakeFiles/edit_cache.dir
-/home/gong/Project/C++/剑指Offer/从尾到头打印链表/build/CMakeFiles/package.dir
